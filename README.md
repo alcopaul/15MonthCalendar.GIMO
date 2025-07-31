@@ -1,5 +1,5 @@
 # 15MonthCalendar.GIMO
-Solar Zodiac Calendar 
+15 Month Solar Zodiac Calendar
 
 July 16, 2025 = Cancer 1, 2025
 
